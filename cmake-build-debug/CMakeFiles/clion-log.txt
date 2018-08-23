@@ -1,0 +1,9 @@
+/home/rafael/Desktop/Installers/CLion-2018.2/clion-2018.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/rafael/Desktop/Codes/CCDLP8/expo_9
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Found Armadillo: /usr/lib/x86_64-linux-gnu/libarmadillo.so (found version "9.100.5") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rafael/Desktop/Codes/CCDLP8/expo_9/cmake-build-debug
